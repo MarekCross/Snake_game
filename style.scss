@@ -1,0 +1,19 @@
+* {
+  border: 0;
+}
+header {
+  width: 100vw;
+  h1 {
+    text-align: center;
+  }
+}
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .gameboard {
+    width: 800px;
+    height: 800px;
+    background-color: royalblue;
+  }
+}
