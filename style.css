@@ -21,4 +21,5 @@ body {
 }
 .food {
   background-color: yellow;
+  border: 0.25vmin solid black;
 }
